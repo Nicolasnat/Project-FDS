@@ -10,7 +10,7 @@ A ideia é a pessoa fornecer detalhes do serviço que busca e o site facilitar a
 - **Carlos** - Product Owner (PO)  
 - **Allana** - Scrum Master  
 - **Nícolas** - Desenvolvedor  
-- **Lara Thaylanne Ho da Silva** - Analista de Dados  
+- **Lara Thaylanne Ho da Silva** - Desenvolvedora  
 
 ---
 
