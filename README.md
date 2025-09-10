@@ -108,6 +108,10 @@ A ideia é a pessoa fornecer detalhes do serviço que busca e o site facilitar a
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd7f6923-476b-4f78-a491-7f11a19e6b6c" />
 
+<img width="1920" height="1080" alt="Captura de tela 2025-09-10 205126" src="https://github.com/user-attachments/assets/2c21c64b-0181-454b-be8f-057796b5bdc4" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef5df443-796a-48b5-b7ff-d3ad85208529" />
+
 
 ## ✅ DoD Geral (Definition of Done)
 
