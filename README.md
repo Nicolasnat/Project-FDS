@@ -14,7 +14,7 @@ A ideia é a pessoa fornecer detalhes do serviço que busca e o site facilitar a
 
 ---
 
-## 📌 Histórias de Usuário + 3C’s
+##  Histórias de Usuário + 3C’s
 
 ### Motoristas
 
