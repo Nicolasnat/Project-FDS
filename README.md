@@ -106,6 +106,8 @@ A ideia é a pessoa fornecer detalhes do serviço que busca e o site facilitar a
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef5df443-796a-48b5-b7ff-d3ad85208529" />
 
+Bitrix24: https://b24-j55uvo.bitrix24.com.br/workgroups/group/1/tasks/?scrum=Y&tab=active_sprint
+
 
 ## ✅ DoD (Definition of Done)
 
