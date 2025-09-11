@@ -1,4 +1,4 @@
-# Project-FDS
+# TransferConnect
 
 ## 🚛 Descrição do Projeto
 Uma aplicação web voltada para **conectar pessoas que precisam fretar cargas ou fazer mudanças com funcionários e caminhoneiros especialistas na área**.  
@@ -113,14 +113,154 @@ A ideia é a pessoa fornecer detalhes do serviço que busca e o site facilitar a
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef5df443-796a-48b5-b7ff-d3ad85208529" />
 
 
-## ✅ DoD Geral (Definition of Done)
+## ✅ DoD (Definition of Done)
 
-- **Funcionalidade:** O site funciona como esperado.  
-- **Integração:** Frontend, Backend e Banco de Dados integrados.  
-- **Design:** Segue o protótipo do Figma e é responsivo.  
-- **Testes:** O site foi testado e não apresentou graves problemas.  
-- **Qualidade do Código:** Código limpo, padronizado e revisado.  
-- **Documentação:** README, prints e anotações atualizadas.  
-- **Validação Final:** Critérios de aceitação atendidos e PO aprovou.  
+Histórias do Motorista
+
+1. Cadastro de motorista
+
+O formulário de cadastro funciona e valida todos os campos obrigatórios.
+
+Dados são armazenados corretamente no banco.
+
+Motorista pode fazer login após cadastro.
+
+Testado em desktop e mobile.
+
+PO validou que motoristas aparecem na busca dos clientes.
+
+2. Atualização de perfil
+
+Motorista consegue editar suas informações (caminhão, disponibilidade, fotos).
+
+Alterações são salvas e refletidas em tempo real.
+
+Dados antigos são substituídos corretamente.
+
+Testado em diferentes navegadores.
+
+PO aprovou a entrega após validação no sistema.
+
+3. Receber notificações de pedidos
+
+Motorista recebe notificações em tempo real (push/e-mail).
+
+Notificação contém informações básicas do pedido.
+
+Só motoristas na região recebem o alerta.
+
+Funcionalidade testada simulando pedidos reais.
+
+Validado em Sprint Review com feedback do PO.
+
+4. Visualizar histórico de fretes
+
+Tela lista todos os fretes concluídos com data, cliente e valor.
+
+Histórico mostra informações corretas do banco.
+
+Motorista consegue acessar de forma simples.
+
+Testado com diferentes cenários (nenhum, poucos e muitos fretes).
+
+PO validou o histórico em demonstração.
+
+5. Avaliação recebida
+
+Sistema registra avaliações dos clientes.
+
+Avaliações aparecem no perfil do motorista.
+
+Média é recalculada automaticamente.
+
+Testado com avaliações positivas e negativas.
+
+PO aprovou após validação funcional.
+
+Histórias do Cliente
+
+6. Cadastro de cliente
+
+Formulário de cadastro implementado com validação de campos.
+
+Dados salvos corretamente no banco.
+
+Cliente consegue acessar a conta após cadastro.
+
+Testado em navegadores e dispositivos diferentes.
+
+Validado e aprovado pelo PO.
+
+7. Buscar motoristas
+
+Cliente consegue aplicar filtros (região, tipo de caminhão, disponibilidade).
+
+Resultados retornam apenas motoristas compatíveis.
+
+Testado com diferentes combinações de filtros.
+
+Pesquisa rápida e sem erros.
+
+PO validou em Sprint Review.
+
+8. Contato com motorista
+
+Cliente pode iniciar chat ou visualizar contato do motorista.
+
+Mensagens são enviadas e recebidas corretamente.
+
+Testado em cenários reais (cliente → motorista).
+
+Funcionalidade segura (somente usuários logados podem acessar).
+
+Validado com feedback do PO.
+
+9. Avaliar motorista
+
+Cliente consegue dar nota (1–5) e comentário.
+
+Avaliação é registrada e exibida no perfil do motorista.
+
+Testado com múltiplos clientes avaliando o mesmo motorista.
+
+Dados armazenados corretamente.
+
+Validado na Sprint Review.
+
+10. Histórico de contratações
+
+Cliente visualiza todos os fretes contratados.
+
+Informações exibidas: motorista, data, valor.
+
+Testado com histórico vazio e histórico extenso.
+
+Listagem clara e sem erros de duplicação.
+
+Validado pelo PO.
+
+11. Atualizar perfil do cliente
+
+Cliente consegue editar dados pessoais (nome, e-mail, telefone, senha).
+
+Alterações são salvas no banco e refletidas de imediato.
+
+Testado em desktop e mobile.
+
+Funcionalidade validada pelo PO em Sprint Review.
+
+12. Fazer solicitação do frete
+
+Cliente consegue preencher dados (origem, destino, tipo de carga, data).
+
+Solicitação aparece para motoristas disponíveis.
+
+Cliente recebe confirmação do pedido.
+
+Testado em cenários de diferentes tipos de carga.
+
+Validado pelo PO na Sprint Review.
+
+
 
 ---
